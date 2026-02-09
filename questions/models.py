@@ -16,5 +16,7 @@ class Question(models.Model):
         help_text="Toplu soru eklemek için JSON dosyası yükleyin"
     )
 
+    created_at = models.DateTimeField(auto_now_add=True)
+
     def __str__(self):
-        return f"{self.external_id}"
+        return str(self.external_id)

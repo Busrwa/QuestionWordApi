@@ -13,7 +13,7 @@ class QuestionListAPIView(generics.ListAPIView):
     pagination_class = QuestionPagination
 
     def get_queryset(self):
-        queryset = Question.objects.all()
+        queryset = Question.objects.all().order_by("-created_at")
 
         category = self.request.query_params.get("category")
         if category:

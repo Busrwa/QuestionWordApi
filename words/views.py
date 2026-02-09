@@ -15,18 +15,20 @@ from .filters import WordFilter
 class WordPagination(PageNumberPagination):
     page_size = 10
 
+
 from rest_framework.permissions import AllowAny
 
 
 # Listeleme
 class WordListView(generics.ListAPIView):
-    queryset = Word.objects.all()
     serializer_class = WordSerializer
-    permission_classes = [AllowAny]  # 🔓 Şifresiz erişim
+    permission_classes = [AllowAny]
     filter_backends = [DjangoFilterBackend]
     filterset_class = WordFilter
     pagination_class = WordPagination
 
+    def get_queryset(self):
+        return Word.objects.all().order_by("id")
 
 # Kelime Ekleme (SADECE ADMIN)
 class WordCreateView(generics.CreateAPIView):
