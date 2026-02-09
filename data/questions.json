@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "category": "Kelime Bilgisi",
+    "question_text": "Archaeological excavations in the region have provided ---- evidence that the ancient civilization possessed advanced knowledge of astronomy long before it was previously thought.",
+    "options": {
+      "A": "ambiguous",
+      "B": "negligible",
+      "C": "compelling",
+      "D": "trivial",
+      "E": "confidential"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "\"Evidence\" (kanıt) kelimesini en iyi niteleyen sıfat \"compelling\" (ikna edici, güçlü) kelimesidir."
+  },
+  {
+    "id": 2,
+    "category": "Dil Bilgisi",
+    "question_text": "---- the devastating effects of the drought, the local farmers managed to achieve a relatively high yield by implementing innovative irrigation techniques.",
+    "options": {
+      "A": "In case of",
+      "B": "Instead of",
+      "C": "As a result of",
+      "D": "Despite",
+      "E": "On account of"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "Cümlenin ilk kısmında olumsuz, ikinci kısmında olumlu bir durum olduğu için zıtlık sağlayan \"Despite\" (-e rağmen) yapısı doğrudur."
+  },
+  {
+    "id": 3,
+    "category": "Cloze Test",
+    "question_text": "The Industrial Revolution was not only a period of technological advancement ---- a time of profound social change that altered the structure of the family.",
+    "options": {
+      "A": "but also",
+      "B": "as well as",
+      "C": "so that",
+      "D": "rather than",
+      "E": "in order to"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Cümledeki \"not only\" yapısı bizi doğrudan \"but also\" kalıbına götürür."
+  },
+  {
+    "id": 4,
+    "category": "Cümle Tamamlama",
+    "question_text": "While many people believe that artificial intelligence will replace human workers in the near future, ----.",
+    "options": {
+      "A": "it has already become a fundamental part of our daily lives",
+      "B": "experts argue that it will instead create new types of employment",
+      "C": "the technology behind it is still in its early stages of development",
+      "D": "its impact on the global economy remains largely unpredictable",
+      "E": "because humans possess emotional intelligence that machines lack"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "\"While\" ile başlayan cümleler zıtlık beklentisi yaratır; B şıkkı aksine yeni iş alanları yaratılacağını söyleyerek bu zıtlığı tamamlar."
+  },
+  {
+    "id": 5,
+    "category": "Çeviri",
+    "question_text": "The rapid decline in biodiversity is a global crisis that requires immediate international cooperation and sustainable policies.",
+    "options": {
+      "A": "Biyoçeşitlilikteki hızlı azalma, acil uluslararası iş birliği ve sürdürülebilir politikalar gerektiren küresel bir krizdir.",
+      "B": "Küresel bir kriz olan biyoçeşitlilik azalması, ancak sürdürülebilir politikalar ve uluslararası iş birliği ile önlenebilir.",
+      "C": "Uluslararası iş birliği ve sürdürülebilir politikalar, biyoçeşitlilikteki hızlı azalmaya karşı geliştirilen acil çözümlerdir.",
+      "D": "Küresel krizlerin en önemlisi olan biyoçeşitlilik kaybı, uluslararası iş birliği yapılmasını zorunlu kılmaktadır.",
+      "E": "Biyoçeşitlilikteki azalma küresel bir kriz olduğu için acil olarak sürdürülebilir politikalar üretilmelidir."
+    },
+    "correct_answer": "A",
+    "explanation_tr": "İngilizce cümlede \"is a global crisis\" ana yüklemdir; A şıkkı özne ve yüklem uyumuyla metnin birebir karşılığıdır."
+  },
+  {
+    "id": 6,
+    "category": "Okuma Parçası",
+    "question_text": "According to the passage, coral bleaching ----.",
+    "options": {
+      "A": "is a natural process that helps coral reefs grow faster",
+      "B": "is primarily caused by a lack of nutrients in the ocean",
+      "C": "results in corals losing their color due to high water temperatures",
+      "D": "can be easily reversed if the algae are reintroduced immediately",
+      "E": "is only observed in the world’s largest coral reef systems"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Metinde mercan ağarmasının okyanus sıcaklıklarındaki artışla olduğu ve mercanların beyaza dönmesine sebep olduğu belirtilmiştir."
+  },
+  {
+    "id": 7,
+    "category": "Diyalog Tamamlama",
+    "question_text": "James: Do you think renewable energy sources will completely replace fossil fuels by 2050? Sarah: ---- James: Why so skeptical? Sarah: Because the current infrastructure is still heavily dependent on oil and gas, and the transition is incredibly expensive.",
+    "options": {
+      "A": "It seems quite possible given the recent technological breakthroughs.",
+      "B": "I highly doubt it, although I wish it were true.",
+      "C": "Most countries have already started investing heavily in solar energy.",
+      "D": "Governments are providing huge subsidies for electric vehicles.",
+      "E": "It's the only way to prevent a catastrophic climate change."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "James'in \"Neden bu kadar şüphecisin?\" sorusu, Sarah'nın boşlukta şüpheci bir fikir (I highly doubt it) beyan ettiğini gösterir."
+  },
+  {
+    "id": 8,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "It was not until the invention of the microscope that scientists were able to observe microorganisms.",
+    "options": {
+      "A": "Scientists had been observing microorganisms long before the microscope was invented.",
+      "B": "Microorganisms could only be seen by scientists after the microscope had been invented.",
+      "C": "The invention of the microscope made it difficult for scientists to study microorganisms.",
+      "D": "Even before the microscope, scientists had a clear understanding of microorganisms.",
+      "E": "The microscope was invented specifically because scientists wanted to see microorganisms."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "\"It was not until... that...\" kalıbı, bir durumun ancak belirli bir olaydan sonra gerçekleştiğini vurgular."
+  },
+  {
+    "id": 9,
+    "category": "Paragraf Tamamlama",
+    "question_text": "Sleep is essential for various biological functions, including memory consolidation and tissue repair. ----. For instance, chronic sleep deprivation has been linked to an increased risk of heart disease and obesity.",
+    "options": {
+      "A": "Most adults need between seven and nine hours of sleep per night",
+      "B": "Some people believe they can function perfectly with very little sleep",
+      "C": "Lack of sufficient sleep can lead to severe health problems over time",
+      "D": "Dreams often occur during the Rapid Eye Movement (REM) stage of sleep",
+      "E": "Caffeine consumption can significantly interfere with your sleep quality"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Boşluktan sonra kalp hastalığı ve obezite gibi sağlık sorunları örneklendiği için, boşluğa bu sorunları kapsayan C şıkkı gelmelidir."
+  },
+  {
+    "id": 10,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) Space exploration has led to many technological innovations that benefit our daily lives. (II) For example, satellite technology has revolutionized global communication and weather forecasting. (III) However, sending humans to Mars remains a very costly and risky endeavor. (IV) GPS systems, originally developed for military use, are now essential for modern navigation. (V) Similarly, lightweight materials created for spacecraft are now used in medical devices.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Paragrafın genel konusu uzay araştırmalarının günlük faydalarıyken, III numaralı cümle Mars'a insan göndermenin maliyetine değinerek akışı bozmaktadır."
+  },
+  {
+    "id": 11,
+    "category": "Kelime Bilgisi",
+    "question_text": "The rise of digital media has ---- the traditional way of consuming news, leading many print newspapers to either adapt or face closure.",
+    "options": {
+      "A": "intensified",
+      "B": "transformed",
+      "C": "abandoned",
+      "D": "inherited",
+      "E": "preserved"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Dijital medyanın haber tüketme yöntemini 'dönüştürdüğünden' (transformed) bahsedilmektedir."
+  },
+  {
+    "id": 12,
+    "category": "Dil Bilgisi",
+    "question_text": "The success of a public health campaign depends largely ---- the ability of local authorities to communicate effectively ---- the target audience.",
+    "options": {
+      "A": "in / for",
+      "B": "at / about",
+      "C": "on / with",
+      "D": "with / through",
+      "E": "by / to"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'Depend on' ve 'communicate with' kalıpları bir arada C şıkkında verilmiştir."
+  },
+  {
+    "id": 13,
+    "category": "Cloze Test",
+    "question_text": "Recent studies suggest that regular physical activity can enhance cognitive functions. ----, it has been shown to reduce the risk of neurodegenerative diseases such as Alzheimer’s.",
+    "options": {
+      "A": "On the contrary",
+      "B": "Nevertheless",
+      "C": "Otherwise",
+      "D": "Furthermore",
+      "E": "Even so"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "Benzer yöndeki olumlu bilgileri bağlamak için 'dahası, ayrıca' anlamına gelen 'Furthermore' kullanılır."
+  },
+  {
+    "id": 14,
+    "category": "Cümle Tamamlama",
+    "question_text": "Since the demand for electric vehicles has increased significantly over the last decade, ----.",
+    "options": {
+      "A": "many car manufacturers are investing more in battery technology",
+      "B": "the price of fossil fuels has dropped to its lowest level ever",
+      "C": "most people still prefer internal combustion engines for long trips",
+      "D": "governments are planning to reduce the subsidies for renewable energy",
+      "E": "it was not possible to meet the environmental targets set by experts"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Elektrikli araç talebinin artması, üreticilerin batarya teknolojisine yatırım yapması sonucunu doğurur."
+  },
+  {
+    "id": 15,
+    "category": "Çeviri",
+    "question_text": "Güneş enerjisi panellerinin kurulum maliyeti yüksek olsa da, uzun vadede sağladıkları enerji tasarrufu bu yatırımı oldukça karlı hale getirmektedir.",
+    "options": {
+      "A": "Solar panels are expensive to install, but the energy savings they provide make them a very profitable investment in the long run.",
+      "B": "Although the installation cost of solar panels is high, the energy savings they provide in the long run make this investment quite profitable.",
+      "C": "Because solar panels provide significant energy savings, the high installation costs are generally ignored by investors.",
+      "D": "Even if the installation of solar panels is costly, it is a profitable investment due to the energy saved over many years.",
+      "E": "The high cost of installing solar panels does not prevent this investment from being profitable because of the energy savings."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Türkçedeki '-sa da' zıtlık yapısı en iyi 'Although' ile karşılanır."
+  },
+  {
+    "id": 16,
+    "category": "Okuma Parçası",
+    "question_text": "It can be understood from the passage that Ancient Greek ----.",
+    "options": {
+      "A": "was the most difficult script to read on the Rosetta Stone",
+      "B": "was the language spoken by the common people in Memphis",
+      "C": "provided the necessary clues to understand Egyptian hieroglyphs",
+      "D": "was only added to the stone for decorative purposes",
+      "E": "was used by scholars to write their own decrees in 1799"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Eski Yunancanın hiyeroglifleri çözmek için bir anahtar (key) olarak kullanıldığı belirtilmiştir."
+  },
+  {
+    "id": 17,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Patient: I’ve been feeling very tired lately, no matter how much I sleep. Doctor: ---- Patient: No, actually I’ve been quite careful about what I eat. Doctor: I see. Then we should run some blood tests.",
+    "options": {
+      "A": "How many hours of sleep do you get on average?",
+      "B": "Have you experienced any sudden changes in your diet or appetite?",
+      "C": "Are you under a lot of stress at work these days?",
+      "D": "Do you exercise regularly or do you have a sedentary lifestyle?",
+      "E": "Have you tried taking any supplements without a prescription?"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Hastanın yemekle ilgili cevabı, doktorun beslenme düzenini sorduğunu gösterir."
+  },
+  {
+    "id": 18,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "The committee would have approved the project if the budget had been more realistic.",
+    "options": {
+      "A": "The project was approved by the committee even though the budget was not realistic.",
+      "B": "The committee didn't approve the project because they found the budget unrealistic.",
+      "C": "If the committee approves the project, it means the budget is realistic enough.",
+      "D": "The budget for the project was realistic, but the committee still rejected it.",
+      "E": "Unless the budget is revised, the committee will not approve the project."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Cümle, bütçe gerçekçi olmadığı için onayın çıkmadığını ifade eder."
+  },
+  {
+    "id": 19,
+    "category": "Paragraf Tamamlama",
+    "question_text": "It refers to the ability to recognize and manage one's own emotions and the emotions of others. ----. In contrast, those with low EQ often struggle with teamwork and conflict resolution.",
+    "options": {
+      "A": "Many companies now use EQ tests during their recruitment processes",
+      "B": "IQ is still considered the most important factor for academic success",
+      "C": "Individuals with high EQ tend to be more effective leaders and communicators",
+      "D": "Emotional intelligence is a skill that cannot be developed later in life",
+      "E": "Some critics argue that the importance of EQ is often exaggerated"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'In contrast' öncesinde yüksek EQ'nun avantajlarından bahsedilmesi akışı sağlar."
+  },
+  {
+    "id": 20,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) Coffee is one of the most widely consumed beverages... (II) It contains caffeine... (III) Excessive consumption can lead to anxiety... (IV) The global coffee trade is worth billions of dollars annually. (V) Therefore, doctors recommend limiting daily intake...",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "Paragraf sağlık odaklıyken IV numaralı cümle konuyu ticari değere çekerek akışı bozar."
+  },
+  {
+    "id": 21,
+    "category": "Kelime Bilgisi",
+    "question_text": "The long-term ---- of the project depends not only on the initial funding but also on the continuous support of the local community.",
+    "options": {
+      "A": "rejection",
+      "B": "viability",
+      "C": "transition",
+      "D": "deficiency",
+      "E": "obstacle"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Cümlede projenin uzun vadeli 'başarısı/yürütülebilirliği'nin hem başlangıç fonuna hem de toplum desteğine bağlı olduğu belirtiliyor. 'Viability' (yapılabilirlik, sürdürülebilirlik) bu bağlama tam uyar."
+  },
+  {
+    "id": 22,
+    "category": "Dil Bilgisi",
+    "question_text": "Judging by the evidence found at the site, the ancient inhabitants ---- the city in a great hurry, as they left most of their valuable possessions behind.",
+    "options": {
+      "A": "must have abandoned",
+      "B": "should have abandoned",
+      "C": "could abandon",
+      "D": "might abandon",
+      "E": "used to abandon"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Geçmişe dair 'yapmış olmalı' şeklindeki güçlü tahminler 'must have + V3' yapısı ile ifade edilir."
+  },
+  {
+    "id": 23,
+    "category": "Cloze Test",
+    "question_text": "Modern architecture often emphasizes functionality and minimalism. ----, many contemporary buildings incorporate eco-friendly materials to reduce their carbon footprint.",
+    "options": {
+      "A": "Instead",
+      "B": "Otherwise",
+      "C": "Additionally",
+      "D": "Even so",
+      "E": "On the contrary"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Birbirini destekleyen ek bilgiler olduğu için 'ayrıca, buna ek olarak' anlamına gelen 'Additionally' doğru cevaptır."
+  },
+  {
+    "id": 24,
+    "category": "Cümle Tamamlama",
+    "question_text": "No matter how much effort is put into soil conservation, ----.",
+    "options": {
+      "A": "farmers have already started to see the benefits of modern techniques",
+      "B": "it is impossible to completely prevent erosion in certain geographical regions",
+      "C": "because the climate change is affecting the global food production",
+      "D": "unless the government provides more financial support for the agriculture",
+      "E": "so that the next generations can live in a more sustainable environment"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "'No matter how...' yapısı zıtlık beklentisi yaratır. B şıkkı, harcanan çabaya rağmen bazı bölgelerde erozyonu önlemenin imkansız olduğunu söyleyerek anlamı tamamlar."
+  },
+  {
+    "id": 25,
+    "category": "Çeviri",
+    "question_text": "Unlike many other mammals that rely on their sense of smell, primates have evolved to depend primarily on their highly developed vision.",
+    "options": {
+      "A": "Koku duyularına güvenen diğer memelilerin aksine primatlar, öncelikle gelişmiş görme yetilerine güvenecek şekilde evrimleşmişlerdir.",
+      "B": "Diğer pek çok memeli koku duyusuna sahip olsa da primatlar, hayatta kalmak için sadece görme yetilerini kullanırlar.",
+      "C": "Primatlar ve diğer memeliler arasındaki temel fark, primatların koku duyusu yerine görme yetilerini evrimleştirmiş olmalarıdır.",
+      "D": "Koku duyusu zayıf olan primatlar, diğer memelilerden farklı olarak görme duyularını geliştirmek zorunda kalmışlardır.",
+      "E": "Primatların görme yetilerinin diğer memelilerden daha fazla gelişmiş olmasının sebebi, koku duyularını kullanmamalarıdır."
+    },
+    "correct_answer": "A",
+    "explanation_tr": "'Unlike' (aksine), 'rely on' (güvenmek) ve 'primarily' (öncelikle) anahtar kelimeleriyle A şıkkı cümlenin birebir karşılığıdır."
+  },
+  {
+    "id": 26,
+    "category": "Okuma Parçası",
+    "question_text": "Paragraph: 'The James Webb Space Telescope (JWST) is designed to look even further back in time, capturing the light from the very first stars...' According to the passage, the James Webb Space Telescope ----.",
+    "options": {
+      "A": "was launched at the same time as the Hubble Space Telescope",
+      "B": "is limited to observing only the stars within our own galaxy",
+      "C": "will replace the Hubble telescope because it has become obsolete",
+      "D": "has the capability to observe earlier stages of the universe than Hubble",
+      "E": "was designed by the same team of scientists who created Hubble"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "Metinde JWST'nin 'daha da geriye bakmak' üzere tasarlandığı belirtilmiştir; bu durum evrenin daha erken evrelerini gözlemleme kabiliyetini doğrular."
+  },
+  {
+    "id": 27,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Interviewer: ...How do you plan to apply your academic knowledge to our company's current projects? Interviewee: ---- Interviewer: That sounds like a very practical approach. We are looking for someone who can bridge the gap between theory and practice.",
+    "options": {
+      "A": "I believe the company should focus more on solar energy rather than wind.",
+      "B": "I intend to analyze the efficiency of your existing systems and propose sustainable upgrades.",
+      "C": "My previous internship was quite challenging but it taught me a lot about teamwork.",
+      "D": "I am planning to pursue a master's degree in a few years to further my education.",
+      "E": "Could you tell me more about the salary and the working hours?"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Görüşmecinin 'pratik yaklaşım' tepkisi, adayın iş odaklı bir çözüm (mevcut sistemlerin analizi ve güncelleme önerisi) sunduğunu gösterir."
+  },
+  {
+    "id": 28,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "If it hadn't been for the sudden change in the weather, the hikers would have reached the summit by now.",
+    "options": {
+      "A": "The hikers reached the summit despite the fact that the weather changed suddenly.",
+      "B": "The weather changed so suddenly that the hikers decided not to go to the summit.",
+      "C": "The hikers were unable to reach the summit because the weather changed unexpectedly.",
+      "D": "Even if the weather hadn't changed, the hikers still wouldn't have reached the summit.",
+      "E": "The hikers are still trying to reach the summit even though the weather is getting worse."
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'If it hadn't been for...' yapısı bir durumun neden gerçekleşmediğini anlatır; hava değiştiği için zirveye ulaşılamadığı anlamını verir."
+  },
+  {
+    "id": 29,
+    "category": "Paragraf Tamamlama",
+    "question_text": "The Renaissance marked the transition from the Middle Ages to modernity. ----. During this time, great artists like Leonardo da Vinci created masterpieces that still influence art today.",
+    "options": {
+      "A": "This era was characterized by a renewed interest in the classical knowledge of Greece and Rome",
+      "B": "Many people in the Middle Ages were not interested in art or philosophy",
+      "C": "Italy was divided into many small city-states that were often at war with each other",
+      "D": "Science and technology did not play a significant role during the Renaissance",
+      "E": "The decline of the Roman Empire led to a period of cultural stagnation in Europe"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Boşluğa gelecek cümle Rönesans'ın karakteristiğini açıklamalıdır; klasik bilgiye duyulan ilginin artması akışı tamamlar."
+  },
+  {
+    "id": 30,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) The Great Wall of China is one of the most remarkable architectural feats... (II) It was built over several centuries... (III) However, many tourists today complain about the crowds and the high prices of souvenirs. (IV) The wall stretches over 13,000 miles... (V) Its construction involved millions of workers...",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Paragrafın tarihi ve mimari anlatımını, turist şikayetlerinden bahseden III numaralı cümle bozmaktadır."
+  },
+  {
+    "id": 31,
+    "category": "Kelime Bilgisi",
+    "question_text": "The sudden increase in the price of raw materials ---- the overall rise in production costs, making it difficult for the company to maintain its profit margins.",
+    "options": {
+      "A": "called off",
+      "B": "accounted for",
+      "C": "handed over",
+      "D": "looked into",
+      "E": "put up with"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "\"Account for\" (açıklamak, bir şeyin sebebi olmak) fiili bu bağlama tam oturur."
+  },
+  {
+    "id": 32,
+    "category": "Dil Bilgisi",
+    "question_text": "The ancient Greeks, ---- philosophy and science have shaped Western civilization, believed that logic was the primary tool for understanding the universe.",
+    "options": {
+      "A": "which",
+      "B": "whose",
+      "C": "in which",
+      "D": "for whom",
+      "E": "that"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Eski Yunanlılar ve onların felsefesi arasındaki iyelik ilişkisini 'whose' Relative Clause yapısı sağlar."
+  },
+  {
+    "id": 33,
+    "category": "Cloze Test",
+    "question_text": "In the early 20th century, skyscrapers began to dominate the skyline of New York. ----, architects had to develop new techniques to ensure the structural integrity of these massive buildings.",
+    "options": {
+      "A": "Instead",
+      "B": "Consequently",
+      "C": "Even so",
+      "D": "On the contrary",
+      "E": "Otherwise"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Gökdelenlerin artması sebep, yeni tekniklerin geliştirilmesi sonuçtur; bu bağı 'Consequently' sağlar."
+  },
+  {
+    "id": 34,
+    "category": "Cümle Tamamlama",
+    "question_text": "Although the internet has provided people with unprecedented access to information, ----.",
+    "options": {
+      "A": "it has also led to the spread of misinformation and digital privacy concerns",
+      "B": "because it has revolutionized the way we communicate with each other",
+      "C": "since many people prefer traditional books for deep reading",
+      "D": "it was developed originally for military and academic purposes",
+      "E": "so that students can conduct research more efficiently than before"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "'Although' ile başlayan olumlu cümleyi, internetin olumsuz bir yönünden bahseden A şıkkı tamamlar."
+  },
+  {
+    "id": 35,
+    "category": "Çeviri",
+    "question_text": "Yapay zeka sistemleri geliştikçe, etik standartların ve yasal düzenlemelerin bu teknolojinin kötüye kullanımını önlemek için güncellenmesi gerekmektedir.",
+    "options": {
+      "A": "As artificial intelligence systems evolve, ethical standards and legal regulations must be updated to prevent the misuse of this technology.",
+      "B": "Even if artificial intelligence systems evolve, it is necessary to update legal regulations and ethical standards to avoid misuse.",
+      "C": "Artificial intelligence systems are evolving so fast that ethical standards and legal regulations cannot prevent their misuse.",
+      "D": "In order to prevent the misuse of artificial intelligence technology, ethical standards and legal regulations should have been updated.",
+      "E": "Since artificial intelligence systems are evolving, updating ethical standards and legal regulations is the only way to stop misuse."
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Türkçedeki '-dikçe/dıkça' anlamı 'As' bağlacı ile, 'gerekmektedir' ise 'must' ile en doğru şekilde karşılanır."
+  },
+  {
+    "id": 36,
+    "category": "Okuma Parçası",
+    "question_text": "It can be inferred from the passage that the Library of Alexandria ----.",
+    "options": {
+      "A": "was built by the Romans after they conquered Egypt",
+      "B": "lost its importance as a center of scholarship during the 3rd century BC",
+      "C": "contained many documents that are no longer available today due to fire",
+      "D": "was the only library in the ancient world that focused on science",
+      "E": "was successfully protected from destruction by ancient scholars"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Metinde kütüphane koleksiyonunun büyük kısmının yangınlarda yok olduğu ve belgelerin kaybolduğu belirtilmiştir."
+  },
+  {
+    "id": 37,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Journalist: Do you think cities are prepared for extreme weather events? Urban Planner: Honestly, our current infrastructure was designed for the climate of the past. Journalist: ---- Urban Planner: Absolutely. It requires a massive investment in green infrastructure.",
+    "options": {
+      "A": "So, are you saying we need to completely redesign our urban areas?",
+      "B": "Why are weather events becoming so extreme lately?",
+      "C": "Is it possible to predict where the next flood will occur?",
+      "D": "Do governments provide enough funding for these projects?",
+      "E": "When do you expect these changes to be completed?"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Planlamacının 'Kesinlikle' cevabı, gazetecinin radikal bir çözüm (redesign) sorusu sorduğunu gösterir."
+  },
+  {
+    "id": 38,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "Hardly had the new law been announced when the public started protesting against it.",
+    "options": {
+      "A": "The public had been protesting for a long time before the new law was finally announced.",
+      "B": "As soon as the new law was announced, the public began to express their opposition through protests.",
+      "C": "The new law was announced despite the fact that the public had already started protesting.",
+      "D": "The public started protesting because they thought the new law would never be announced.",
+      "E": "After the public started protesting, the government had no choice but to announce the new law."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "'Hardly... when...' kalıbı 'as soon as' (-er -mez) anlamını mükemmel karşılar."
+  },
+  {
+    "id": 39,
+    "category": "Paragraf Tamamlama",
+    "question_text": "Some researchers believe that language developed as a way to facilitate cooperation during hunting. ----. Regardless of its origins, language remains the most powerful tool for human social interaction.",
+    "options": {
+      "A": "However, others argue that it emerged primarily as a means of social grooming and bonding",
+      "B": "Modern languages are much more difficult to learn than ancient ones",
+      "C": "Many people today use social media as their primary way of communicating",
+      "D": "Writing systems were developed much later than spoken language",
+      "E": "Learning a second language can significantly improve brain function"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Boşluktan sonraki 'kökeni ne olursa olsun' ifadesi, boşlukta alternatif bir köken teorisi (A şıkkı) verilmesini gerektirir."
+  },
+  {
+    "id": 40,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) Honeybees play a crucial role as pollinators. (II) Without them, crop production would decrease. (III) In recent years, bee populations have been declining. (IV) Honey has been used for medicinal purposes since ancient times. (V) This decline poses a serious threat to food security.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "Paragraf arıların ekosistemdeki rolü üzerineyken, IV numaralı cümle balın tıbbi kullanımından bahsederek akışı bozar."
+  },
+  {
+    "id": 41,
+    "category": "Kelime Bilgisi",
+    "question_text": "The human brain is ---- complex, and despite decades of intensive research, scientists are still struggling to understand the full extent of its capabilities.",
+    "options": {
+      "A": "inherently",
+      "B": "accidentally",
+      "C": "superficially",
+      "D": "redundantly",
+      "E": "controversial"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Beynin 'doğası gereği, özünde' karmaşık olduğunu ifade etmek için 'inherently' zarfı en uygun seçimdir. "
+  },
+  {
+    "id": 42,
+    "category": "Dil Bilgisi",
+    "question_text": "The ruins of the ancient temple ---- by a group of local farmers in 1920, but it ---- until the late 1950s that a full-scale excavation began.",
+    "options": {
+      "A": "were discovered / had not been",
+      "B": "discovered / was not",
+      "C": "were discovered / was not",
+      "D": "have been discovered / is not",
+      "E": "had been discovered / was not"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "İlk boşluk 1920'deki tamamlanmış pasif eylem (were discovered), ikinci boşluk ise 'it was not until' kalıbı gereği 'was not' olmalıdır. "
+  },
+  {
+    "id": 43,
+    "category": "Cloze Test",
+    "question_text": "Many people believe that success is solely a result of hard work. ----, research suggests that luck and social environment also play significant roles in determining one's achievements.",
+    "options": {
+      "A": "In addition",
+      "B": "Similarly",
+      "C": "Otherwise",
+      "D": "However",
+      "E": "Therefore"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "İki karşıt görüşü (sadece çalışma vs. şans/çevre) birbirine bağlamak için zıtlık bildiren 'However' kullanılır."
+  },
+  {
+    "id": 44,
+    "category": "Cümle Tamamlama",
+    "question_text": "Provided that the global temperature does not rise more than two degrees Celsius, ----.",
+    "options": {
+      "A": "the melting of polar ice caps would have been prevented",
+      "B": "scientists are concerned about the future of biodiversity",
+      "C": "ecosystems might still have a chance to adapt to the changing climate",
+      "D": "because renewable energy sources are becoming more affordable",
+      "E": "although many countries have failed to meet their carbon targets"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'Provided that' koşul bağlacı ile başlayan 'eğer artmazsa' şartını, olumlu bir olasılık olan C şıkkı tamamlar."
+  },
+  {
+    "id": 45,
+    "category": "Çeviri",
+    "question_text": "Psychologists argue that children who are encouraged to express their emotions tend to develop stronger interpersonal skills in adulthood.",
+    "options": {
+      "A": "Psikologlar, duygularını ifade etmeye teşvik edilen çocukların yetişkinlikte daha güçlü kişilerarası beceriler geliştirme eğiliminde olduğunu savunmaktadırlar.",
+      "B": "Çocukların duygularını ifade etmesi, psikologlara göre onların yetişkinlikte daha iyi sosyal ilişkiler kurmasını sağlayan temel faktördür.",
+      "C": "Yetişkinlikte güçlü sosyal becerilere sahip olan kişilerin, çocukken duygularını ifade etmeye teşvik edilen kişiler olduğu psikologlarca iddia edilmektedir.",
+      "D": "Psikologların savunduğu üzere, duygularını özgürce ifade eden çocuklar yetişkin olduklarında daha başarılı bireyler haline gelirler.",
+      "E": "Duygularını ifade etmeye teşvik edilen çocukların yetişkinlikte daha sosyal olacağını savunanlar psikologlardır."
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Cümlenin özne ve yüklem yapısını birebir karşılayan en doğru çeviri A seçeneğidir."
+  },
+  {
+    "id": 46,
+    "category": "Okuma Parçası",
+    "question_text": "According to the passage, the Silk Road ----.",
+    "options": {
+      "A": "was a single, well-defined road used exclusively for the silk trade",
+      "B": "served as a bridge for cultural and intellectual exchange between regions",
+      "C": "became less important after the discovery of sea routes to Asia",
+      "D": "was primarily used by religious leaders to spread their beliefs",
+      "E": "prevented Western technologies from reaching the Eastern civilizations"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "İpek Yolu'nun fikir, din ve teknoloji alışverişini kolaylaştırdığı bilgisi B şıkkında özetlenmiştir."
+  },
+  {
+    "id": 47,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Mark: Do you think remote work is here to stay? Jane: I think a hybrid model is the most likely outcome. Mark: ---- Jane: Exactly. People value home flexibility but miss office collaboration.",
+    "options": {
+      "A": "Why do you think offices are becoming obsolete?",
+      "B": "So, you mean a combination of both home and office work?",
+      "C": "Do you believe employees are more productive at home?",
+      "D": "How will companies manage the costs of maintaining large offices?",
+      "E": "When do you expect the transition to be fully completed?"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Jane'in 'Exactly' (Tam olarak öyle) cevabı, Mark'ın hibrit modelin ne olduğunu teyit eden bir soru sorduğunu gösterir."
+  },
+  {
+    "id": 48,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "Much as he wanted to attend the conference, he had to cancel his trip due to an urgent family matter.",
+    "options": {
+      "A": "He attended the conference despite having some urgent family problems to deal with.",
+      "B": "Although he had a great desire to go to the conference, an unexpected family issue prevented him from going.",
+      "C": "He didn't really want to go to the conference, so he used a family matter as an excuse to cancel.",
+      "D": "If he hadn't had an urgent family matter, he would have canceled the conference anyway.",
+      "E": "Because he was so busy with the conference, he neglected an important matter regarding his family."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "'Much as' zıtlık yapısı ve seyahatin iptal nedeni B şıkkında farklı kelimelerle aynı anlamda verilmiştir."
+  },
+  {
+    "id": 49,
+    "category": "Paragraf Tamamlama",
+    "question_text": "Cybersecurity has become a top priority. Hackers are using sophisticated methods to steal data. ----. Therefore, investing in security software and training is a necessity.",
+    "options": {
+      "A": "Many individuals are still unaware of the basic principles of online safety",
+      "B": "The cost of a data breach can be devastating for a small business",
+      "C": "Most cyber attacks can be easily prevented with simple passwords",
+      "D": "Governments are passing new laws to regulate the use of the internet",
+      "E": "Technology companies are competing to develop the fastest processors"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Boşluktan sonraki yatırım zorunluluğu sonucuna götüren risk/zarar uyarısı B şıkkında verilmiştir."
+  },
+  {
+    "id": 50,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) Renewable energy sources are essential for reducing emissions. (II) Unlike fossil fuels, they do not deplete resources. (III) Many countries are setting net-zero targets. (IV) However, energy storage remains a challenge. (V) Coal mining provides jobs for thousands of people.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "E",
+    "explanation_tr": "Paragraf yenilenebilir enerji hakkındayken V numaralı cümle aniden kömür madenciliğinin istihdamına değinerek akışı bozar."
+  },
+  {
+    "id": 51,
+    "category": "Kelime Bilgisi",
+    "question_text": "The findings of the study were ----, as they contradicted several well-established theories in the field of quantum physics.",
+    "options": {
+      "A": "predictable",
+      "B": "consistent",
+      "C": "controversial",
+      "D": "insignificant",
+      "E": "collaborative"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Yerleşik teorilerle çelişen bulgular 'controversial' (tartışmalı) olarak nitelendirilir."
+  },
+  {
+    "id": 52,
+    "category": "Dil Bilgisi",
+    "question_text": "---- the committee was aware of the potential risks involved in the new venture, they decided to proceed with the investment to gain a competitive edge.",
+    "options": {
+      "A": "In case",
+      "B": "Even though",
+      "C": "As if",
+      "D": "Unless",
+      "E": "Provided that"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Risklerin farkında olunmasına rağmen yatırım kararı alındığı için zıtlık bildiren 'Even though' (-e rağmen) doğrudur."
+  },
+  {
+    "id": 53,
+    "category": "Cloze Test",
+    "question_text": "Sustainable agriculture practices aim to protect the environment while ensuring food security. ----, they often require higher initial costs and more intensive labor compared to conventional farming.",
+    "options": {
+      "A": "Therefore",
+      "B": "For instance",
+      "C": "On the other hand",
+      "D": "Similarly",
+      "E": "Accordingly"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Olumlu bir amaçtan (çevreyi koruma), zorlayıcı bir yöne (yüksek maliyet) geçiş yapıldığı için 'On the other hand' kullanılır."
+  },
+  {
+    "id": 54,
+    "category": "Cümle Tamamlama",
+    "question_text": "If the government had implemented stricter environmental regulations ten years ago, ----.",
+    "options": {
+      "A": "pollution levels in major cities would be significantly lower today",
+      "B": "many industries are struggling to adapt to the new green standards",
+      "C": "it is still possible to achieve the net-zero emission targets by 2050",
+      "D": "because the public awareness of climate change has increased recently",
+      "E": "although the economic impact of such policies remains a subject of debate"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Geçmişte yapılmamış bir eylemin günümüzdeki hayali sonucunu ifade eden 'If + had V3' yapısını A şıkkı tamamlar."
+  },
+  {
+    "id": 55,
+    "category": "Çeviri",
+    "question_text": "Antik Roma mühendisleri tarafından inşa edilen yolların çoğu, sadece askeri sevkiyatı kolaylaştırmakla kalmamış, aynı zamanda ticaretin gelişmesine de büyük katkı sağlamıştır.",
+    "options": {
+      "A": "Many of the roads built by ancient Roman engineers not only facilitated military transport but also contributed greatly to the development of trade.",
+      "B": "Although ancient Roman engineers built roads primarily for military purposes, these roads were also used for international trade.",
+      "C": "The roads constructed by ancient Roman engineers were so durable that they are still used for trade and military transport today.",
+      "D": "In addition to facilitating military movements, the roads of ancient Rome were designed to promote economic growth through trade.",
+      "E": "Not only did ancient Roman engineers build roads for the military, but they also ensured that these roads were suitable for heavy trade."
+    },
+    "correct_answer": "A",
+    "explanation_tr": "'Sadece ... kalmamış, aynı zamanda ... da' kalıbı İngilizcede 'not only ... but also' yapısıyla verilir."
+  },
+  {
+    "id": 56,
+    "category": "Okuma Parçası",
+    "question_text": "We can understand from the passage that the Placebo Effect ----.",
+    "options": {
+      "A": "is a medical treatment that uses sugar pills to cure serious illnesses",
+      "B": "relies heavily on the psychological state and expectations of the patient",
+      "C": "has been proven to be more effective than modern pharmaceutical drugs",
+      "D": "only occurs when the patient is aware that the treatment is a placebo",
+      "E": "is a chemical reaction that can only be triggered by specific medications"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Metinde bu durumun hastanın 'iyileşme beklentisi' sayesinde gerçekleştiği belirtilmiş; bu da psikolojik durumla ilgilidir."
+  },
+  {
+    "id": 57,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Sophia: I wonder how a four-day work week would affect sectors like healthcare. Liam: ---- Sophia: Exactly. Unless those sectors hire more staff, current employees would be overwhelmed.",
+    "options": {
+      "A": "I think most people would prefer to have a longer weekend.",
+      "B": "They would probably need to implement a rotating shift system to cover all hours.",
+      "C": "Productivity is not the only factor; employee well-being is also important.",
+      "D": "Do you believe that technology can compensate for the shorter working hours?",
+      "E": "Studies show that people are more focused when they work fewer days."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Sophia'nın 'daha fazla personel' vurgusu, Liam'ın kesintisiz hizmet için bir vardiya sistemi önermesini gerektirir."
+  },
+  {
+    "id": 58,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "The discovery of penicillin was purely accidental, yet it revolutionized the treatment of bacterial infections.",
+    "options": {
+      "A": "Bacterial infections were difficult to treat until penicillin was discovered by chance.",
+      "B": "Even though penicillin was found by mistake, it fundamentally changed how bacterial infections are treated.",
+      "C": "If penicillin hadn't been discovered accidentally, we wouldn't be able to treat bacterial infections today.",
+      "D": "The revolution in the treatment of bacterial infections led to the accidental discovery of penicillin.",
+      "E": "Scientists were looking for a way to treat bacterial infections when they accidentally found penicillin."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Orijinal cümledeki 'tesadüfi keşif' ve 'devrimsel değişim' vurguları B şıkkında korunmuştur."
+  },
+  {
+    "id": 59,
+    "category": "Paragraf Tamamlama",
+    "question_text": "The concept of 'Smart Cities' involves using data to improve life. This includes smart grids and intelligent transport. ----. For example, data collection can lead to surveillance concerns.",
+    "options": {
+      "A": "Most citizens are willing to share their personal data for better services",
+      "B": "However, the implementation of these technologies also raises ethical issues",
+      "C": "Technology companies are investing billions in smart city infrastructure",
+      "D": "Traditional cities are finding it difficult to compete with these new models",
+      "E": "The main goal of a smart city is to reduce the overall cost of living"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Boşluktan sonraki mahremiyet ve gözetleme örneği, boşluğa etik sorunlardan bahseden B şıkkının gelmesini gerektirir."
+  },
+  {
+    "id": 60,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) Leonardo da Vinci is regarded as one of the greatest polymaths. (II) He excelled in painting, anatomy, and engineering. (III) His most famous work, the Mona Lisa, is known for its smile. (IV) In his notebooks, he drew designs ahead of his time. (V) However, many artists during the Renaissance struggled to find wealthy patrons.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "E",
+    "explanation_tr": "Paragraf Leonardo da Vinci üzerineyken, V numaralı cümle genel olarak sanatçıların patron bulma zorluğuna değinerek akışı bozar."
+  },
+  {
+    "id": 61,
+    "category": "Kelime Bilgisi",
+    "question_text": "The government has decided to ---- new measures to curb inflation and stabilize the national currency, though many economists are skeptical about their long-term effectiveness.",
+    "options": {
+      "A": "implement",
+      "B": "postpone",
+      "C": "overlook",
+      "D": "withdraw",
+      "E": "contradict"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Enflasyonu dizginlemek için yeni önlemlerin 'uygulanması' (implement) bağlama en uygun ifadedir."
+  },
+  {
+    "id": 62,
+    "category": "Dil Bilgisi",
+    "question_text": "While ---- of the archaeological sites in the region have been well-preserved, ---- remain vulnerable to looting and environmental degradation due to lack of security.",
+    "options": {
+      "A": "all / each",
+      "B": "much / another",
+      "C": "some / many",
+      "D": "every / any",
+      "E": "few / little"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'While' zıtlık bağlacı ile bir kısmın iyi korunduğu, diğer pek çoğunun (many) ise savunmasız kaldığı zıtlığı kurulmuştur."
+  },
+  {
+    "id": 63,
+    "category": "Cloze Test",
+    "question_text": "The discovery of antibiotic resistance has forced scientists to seek alternative treatments for bacterial infections. ----, researchers are exploring the use of bacteriophages.",
+    "options": {
+      "A": "Nevertheless",
+      "B": "Otherwise",
+      "C": "As a result",
+      "D": "On the contrary",
+      "E": "Even so"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Antibiyotik direnci bir sebep, alternatif tedavilerin araştırılması ise bunun bir sonucudur (As a result)."
+  },
+  {
+    "id": 64,
+    "category": "Cümle Tamamlama",
+    "question_text": "Unlike traditional forms of education that focus on rote memorization, ----.",
+    "options": {
+      "A": "students are often required to repeat facts until they are learned by heart",
+      "B": "because technology has made information more accessible than ever",
+      "C": "modern pedagogical approaches emphasize critical thinking and problem-solving",
+      "D": "it is still considered the most effective way to pass standardized exams",
+      "E": "although many parents are concerned about the quality of online learning"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'Unlike' (aksine) yapısı, geleneksel ezberciliğin karşıtı olarak modern pedagojik yaklaşımları getirmelidir."
+  },
+  {
+    "id": 65,
+    "category": "Çeviri",
+    "question_text": "The Amazon rainforest, which plays a vital role in regulating the Earth’s climate, is being destroyed at an alarming rate due to illegal logging and agriculture.",
+    "options": {
+      "A": "Amazon yağmur ormanları, yasa dışı ağaç kesimi ve tarım yüzünden yok edilmekte olsa da Dünya iklimini düzenlemede hayati bir rol oynamaya devam etmektedir.",
+      "B": "Dünya iklimini düzenlemede hayati bir rol oynayan Amazon yağmur ormanları, yasa dışı ağaç kesimi ve tarım nedeniyle endişe verici bir hızla yok edilmektedir.",
+      "C": "Yasa dışı tarım ve ağaç kesimi, Dünya iklimini düzenleyen Amazon yağmur ormanlarının büyük bir hızla yok olmasına neden olan temel faktörlerdir.",
+      "D": "Eğer Amazon yağmur ormanları yok edilmeye devam ederse, yasa dışı ağaç kesimi nedeniyle Dünya iklimi üzerindeki hayati rolünü kaybedecektir.",
+      "E": "Amazon yağmur ormanlarının endişe verici bir hızla yok edilmesi, hem yasa dışı tarımdan hem de Dünya ikliminin değişmesinden kaynaklanmaktadır."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Cümledeki niteleme sıfatı ve yüklem yapısı dikkate alındığında B şıkkı tam karşılıktır."
+  },
+  {
+    "id": 66,
+    "category": "Okuma Parçası",
+    "question_text": "According to the passage, the Industrial Revolution ----.",
+    "options": {
+      "A": "resulted in a decrease in the overall population of urban areas",
+      "B": "had a purely positive impact on the lives of factory workers",
+      "C": "transformed the economic structure of societies from farming to industry",
+      "D": "was primarily driven by the need for better social conditions",
+      "E": "failed to produce any significant economic growth during the 19th century"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Metinde toplumların tarım ekonomilerinden sanayileşmiş olanlara geçtiği (transformed) vurgulanmıştır."
+  },
+  {
+    "id": 67,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Father: ...If you use it (gap year) to gain work experience or travel, it could be very beneficial. Daughter: ---- Father: In that case, I think it would be better for you to go straight to university and stay focused on your goals.",
+    "options": {
+      "A": "I was thinking of volunteering for an environmental project abroad.",
+      "B": "I’m actually not sure; I might just stay at home and relax for a year.",
+      "C": "I’ve already applied for an internship at a local marketing firm.",
+      "D": "Many of my friends are planning to do the same thing next year.",
+      "E": "I believe a gap year would help me decide which major to choose."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Babanın olumsuz tepkisi, kızın belirsiz ve verimsiz bir plan (stay at home and relax) sunduğunu gösterir."
+  },
+  {
+    "id": 68,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "The more we rely on digital communication, the less we engage in meaningful face-to-face interactions.",
+    "options": {
+      "A": "If we didn't rely on digital communication so much, we would have more meaningful interactions.",
+      "B": "Meaningful face-to-face interactions are becoming more common despite the rise of digital tools.",
+      "C": "As our dependence on digital communication increases, our face-to-face engagement decreases.",
+      "D": "Digital communication is much more meaningful than traditional face-to-face interactions.",
+      "E": "People who engage in face-to-face interactions are less likely to use digital communication tools."
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'The more... the less...' yapısındaki doğru orantılı değişim, 'As' bağlacıyla C şıkkında verilmiştir."
+  },
+  {
+    "id": 69,
+    "category": "Paragraf Tamamlama",
+    "question_text": "Nutrition plays a fundamental role in health. A balanced diet provides necessary vitamins. ----. For instance, diets high in processed sugars have been linked to an increased risk of depression.",
+    "options": {
+      "A": "Many people find it difficult to stick to a healthy eating plan",
+      "B": "However, most individuals are unaware of the importance of hydration",
+      "C": "Conversely, poor nutritional habits can have a negative impact on the brain",
+      "D": "The food industry is often criticized for promoting unhealthy products",
+      "E": "Some vitamins are only found in animal-based food sources"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Boşluktan sonraki zihinsel sağlık sorunları örneği (depression), kötü beslenmenin beyin üzerindeki etkisini anlatan C şıkkına dayanır."
+  },
+  {
+    "id": 70,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) VR technology is increasingly used in medical training to simulate surgeries. (II) This allows students to practice in a safe environment. (III) VR headsets are also becoming popular among gamers. (IV) By using VR, doctors can reduce the risks of errors. (V) Furthermore, it provides an opportunity to repeat a procedure.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Paragraf tıp eğitimi odaklıyken, III numaralı cümle oyuncuların deneyimine (gamers) değinerek akışı bozar."
+  },
+  {
+    "id": 71,
+    "category": "Kelime Bilgisi",
+    "question_text": "The scientists decided to ---- the experiment several times to ensure that the initial results were not just a matter of chance.",
+    "options": {
+      "A": "carry out",
+      "B": "give up",
+      "C": "bring about",
+      "D": "set out",
+      "E": "keep off"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Deneyi 'yapmak, yürütmek' anlamında 'carry out' phrasal verb'ü akademik bağlamda en uygun ifadedir."
+  },
+  {
+    "id": 72,
+    "category": "Dil Bilgisi",
+    "question_text": "By the time the new environmental law ---- into effect next year, many industrial plants ---- their filtration systems to comply with the stricter regulations.",
+    "options": {
+      "A": "comes / will have upgraded",
+      "B": "will come / upgrade",
+      "C": "has come / will upgrade",
+      "D": "came / had upgraded",
+      "E": "comes / will be upgraded"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "'By the time' gelecek zamanla kullanıldığında yan cümlede Simple Present, ana cümlede Future Perfect kullanımı standarttır."
+  },
+  {
+    "id": 73,
+    "category": "Cloze Test",
+    "question_text": "The discovery of fire was a crucial milestone for early humans. ---- providing warmth and protection from predators, it allowed them to cook food.",
+    "options": {
+      "A": "In addition to",
+      "B": "Instead of",
+      "C": "Despite",
+      "D": "As a result of",
+      "E": "Regardless of"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Ateşin sağladığı farklı faydaları (ısı, koruma ve yemek pişirme) birbirine eklediği için 'In addition to' doğru cevaptır."
+  },
+  {
+    "id": 74,
+    "category": "Cümle Tamamlama",
+    "question_text": "While some researchers argue that genetic factors are the primary cause of certain behaviors, ----.",
+    "options": {
+      "A": "because the influence of the environment cannot be ignored",
+      "B": "others believe that social and cultural experiences play a much larger role",
+      "C": "as a result, many studies focus on the structure of human DNA",
+      "D": "although genetics has been a subject of interest for centuries",
+      "E": "it is hard to determine which genes are responsible for intelligence"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "'While' zıtlık bağlacı olduğu için ilk gruptaki 'genetik' görüşünün karşısına 'sosyal deneyimler' görüşünü koyan B şıkkı gelmelidir."
+  },
+  {
+    "id": 75,
+    "category": "Çeviri",
+    "question_text": "Gelecekteki enerji ihtiyacımızı karşılamak için, sadece fosil yakıtlara güvenmek yerine yenilenebilir enerji kaynaklarına yapılan yatırımları artırmalıyız.",
+    "options": {
+      "A": "Instead of relying solely on fossil fuels to meet our future energy needs, we must increase investments in renewable energy sources.",
+      "B": "We should increase investments in renewable energy sources because fossil fuels are no longer sufficient for our energy needs.",
+      "C": "If we want to meet our future energy needs, we have to invest in renewable energy sources more than fossil fuels.",
+      "D": "Relying on fossil fuels is not enough to meet our energy needs, so we need to invest in renewable energy sources as well.",
+      "E": "Only by investing in renewable energy sources can we meet our future energy needs without depending on fossil fuels."
+    },
+    "correct_answer": "A",
+    "explanation_tr": "'-mak yerine' (instead of) ve 'sadece' (solely) ifadeleri A şıkkında tam olarak karşılanmıştır."
+  },
+  {
+    "id": 76,
+    "category": "Okuma Parçası",
+    "question_text": "What is one concern regarding IoT (Internet of Things) technology mentioned in the passage?",
+    "options": {
+      "A": "It is too expensive for the average household to implement.",
+      "B": "It may lead to a decrease in the overall efficiency of energy use.",
+      "C": "It could allow unauthorized individuals to access personal data.",
+      "D": "It relies on older internet protocols that are no longer supported.",
+      "E": "It reduces the need for human interaction in daily life."
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Metinde hackerların özel ev bilgilerine erişebileceği (unauthorized access) bir güvenlik riski olarak belirtilmiştir."
+  },
+  {
+    "id": 77,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Tom: ...I’m worried about what happens if I lose my phone or the battery dies. Alice: ---- Tom: That’s true. I suppose the benefits like biometrics outweigh those rare risks.",
+    "options": {
+      "A": "Most apps allow you to block your account remotely from another device.",
+      "B": "I think cash will always be the most reliable method of payment.",
+      "C": "Do you think banks will eventually stop printing physical money?",
+      "D": "Have you ever had your personal information stolen online?",
+      "E": "I prefer using credit cards because they offer better rewards."
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Alice'in telefon kaybı endişesine karşı Tom, hesabın uzaktan bloke edilebileceğini söyleyerek ikna edici bir çözüm sunar."
+  },
+  {
+    "id": 78,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "The project was so complex that it took twice as long as originally planned to complete.",
+    "options": {
+      "A": "If the project hadn't been so complex, it would have been completed much faster.",
+      "B": "The project was completed in double the expected time because of its high level of complexity.",
+      "C": "Although the project was complex, it was finished exactly when it was originally planned.",
+      "D": "Because the project took a long time, the planners had to make it more complex.",
+      "E": "The original plan for the project was to take twice as much time as it actually did."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Orijinal cümledeki 'karmaşıklık nedeniyle sürenin iki katına çıkması' durumu B şıkkında farklı kelimelerle aynı anlamda verilmiştir."
+  },
+  {
+    "id": 79,
+    "category": "Paragraf Tamamlama",
+    "question_text": "Sustainable Fashion involves organic materials and recycling. ----. For instance, fast fashion brands release dozens of collections every year, encouraging consumers to discard clothes rapidly.",
+    "options": {
+      "A": "Many consumers are now willing to pay more for ethically produced clothes",
+      "B": "However, the industry still faces a major challenge from the rise of 'fast fashion'",
+      "C": "Designers are experimenting with new types of biodegradable fabrics",
+      "D": "The recycling process for synthetic materials is still very expensive",
+      "E": "Some countries have introduced taxes on non-sustainable textile products"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Boşluktan sonraki 'hızlı moda'nın olumsuz etkileri örneği, boşluğa bu durumun bir zorluk (challenge) olduğunu belirten B şıkkını getirir."
+  },
+  {
+    "id": 80,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) Urban gardening provides fresh produce in crowded cities. (II) It involves growing food on balconies or rooftops. (III) These gardens help reduce the urban heat island effect. (IV) In contrast, traditional farming requires vast amounts of land. (V) However, many city dwellers find it difficult to afford high rent for large balconies.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "IV",
+    "explanation_tr": "Paragraf tamamen şehir bahçeciliği odaklıyken, IV numaralı cümle aniden geleneksel tarıma geçerek akışı bozmaktadır."
+  },
+  {
+    "id": 81,
+    "category": "Kelime Bilgisi",
+    "question_text": "Despite being one of the most ---- species on Earth, the tardigrade can survive in extreme conditions, including the vacuum of space and intense radiation.",
+    "options": {
+      "A": "volatile",
+      "B": "resilient",
+      "C": "superficial",
+      "D": "obsolete",
+      "E": "ambitious"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Tardigradların uç koşullarda hayatta kalabilmesi, onların 'zorluklara karşı dayanıklı' (resilient) olduğunu gösterir."
+  },
+  {
+    "id": 82,
+    "category": "Dil Bilgisi",
+    "question_text": "The rise in global sea levels is attributed ---- a combination of thermal expansion and the melting of glaciers, both of ---- are direct consequences of global warming.",
+    "options": {
+      "A": "at / whom",
+      "B": "by / that",
+      "C": "to / which",
+      "D": "for / where",
+      "E": "with / whose"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'Attribute to' kalıbı ve nesneleri niteleyen 'both of which' yapısı C şıkkında doğru verilmiştir."
+  },
+  {
+    "id": 83,
+    "category": "Cloze Test",
+    "question_text": "Modern medicine has significantly extended the average human lifespan. ----, this increase in longevity has led to a higher prevalence of age-related diseases such as dementia.",
+    "options": {
+      "A": "Similarly",
+      "B": "Consequently",
+      "C": "In addition",
+      "D": "Otherwise",
+      "E": "Nevertheless"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Ömrün uzaması bir sebep, yaşlılığa bağlı hastalıkların artması ise bir sonuçtur (Consequently)."
+  },
+  {
+    "id": 84,
+    "category": "Cümle Tamamlama",
+    "question_text": "Since many consumers are now prioritizing ethical production and sustainability, ----.",
+    "options": {
+      "A": "most companies are still focusing solely on profit margins",
+      "B": "fast fashion brands have reached their highest sales in history",
+      "C": "businesses that ignore these values are finding it harder to compete",
+      "D": "because environmental regulations have become less strict lately",
+      "E": "although the price of organic materials remains very high"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Tüketicilerin etik üretime önem vermesi, bu değerleri görmezden gelen şirketlerin rekabetini zorlaştırır."
+  },
+  {
+    "id": 85,
+    "category": "Çeviri",
+    "question_text": "Psikolojik araştırmalar, düzenli olarak doğada vakit geçirmenin stres seviyelerini önemli ölçüde azalttığını ve genel refahı artırdığını göstermektedir.",
+    "options": {
+      "A": "According to psychological research, spending time in nature regularly reduces stress levels while improving overall well-being.",
+      "B": "Psychological research shows that spending time in nature on a regular basis significantly reduces stress levels and enhances overall well-being.",
+      "C": "If one spends time in nature regularly, psychological research suggests that stress levels will decrease and well-being will improve.",
+      "D": "Research in psychology indicates that overall well-being can be enhanced only if stress levels are reduced by spending time in nature.",
+      "E": "Spending time in nature regularly is proven by psychological research to be the best way to reduce stress and improve well-being."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Özne ve yüklem yapısı ile 'önemli ölçüde' (significantly) ifadesini en doğru karşılayan B şıkkıdır."
+  },
+  {
+    "id": 86,
+    "category": "Okuma Parçası",
+    "question_text": "It can be inferred from the passage that dark matter ----.",
+    "options": {
+      "A": "can be easily observed using advanced modern telescopes",
+      "B": "is the primary component of ordinary stars and planets",
+      "C": "was discovered only after light-reflecting materials were studied",
+      "D": "interacts with the rest of the universe primarily through gravity",
+      "E": "will eventually be converted into light through a natural process"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "Metinde karanlık maddenin varlığının kütleçekimsel etkilerinden (gravitational effects) bilindiği belirtilmiştir."
+  },
+  {
+    "id": 87,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Career Coach: ...What’s your main motivation? Client: I want to do something more creative. Career Coach: ---- Client: That’s a good point. I’ll start by looking into some graphic design courses.",
+    "options": {
+      "A": "Have you considered asking for a promotion in your current company?",
+      "B": "Creativity is important, but have you thought about the financial risks?",
+      "C": "You should identify which specific skills you need to develop for that new path.",
+      "D": "Most people regret changing their careers after they reach the age of forty.",
+      "E": "Why don't you just take a long vacation to clear your mind?"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Müşterinin 'kurs bakacağım' cevabı, koçun beceri geliştirme (specific skills) tavsiyesi verdiğini doğrular."
+  },
+  {
+    "id": 88,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "No sooner had the team launched the new software than they discovered a major security flaw.",
+    "options": {
+      "A": "The team discovered a security flaw long before the software was even launched.",
+      "B": "As soon as the software was launched, the team realized there was a significant security problem.",
+      "C": "The security flaw was so major that the team decided not to launch the software at all.",
+      "D": "Even though the software had a security flaw, the team launched it anyway to meet the deadline.",
+      "E": "After discovering the security flaw, the team had no choice but to launch a new version of the software."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "'No sooner... than...' yapısı bir olayın hemen ardından diğerinin başladığını (-er -mez) ifade eder."
+  },
+  {
+    "id": 89,
+    "category": "Paragraf Tamamlama",
+    "question_text": "AI is used in everything from medical diagnosis to self-driving cars. ----. Critics argue that without proper regulation, AI could be used to spread misinformation or violate privacy.",
+    "options": {
+      "A": "Most people are excited about the potential benefits of AI in their daily lives",
+      "B": "However, this rapid development also brings about significant ethical concerns",
+      "C": "AI systems require massive amounts of data to function effectively",
+      "D": "Technology companies are investing more in AI than any other field",
+      "E": "In the future, AI might even surpass human intelligence in creative tasks"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Eleştirmenlerin dezenformasyon ve mahremiyet uyarıları, boşlukta etik endişelerden (ethical concerns) bahsedilmesini gerektirir."
+  },
+  {
+    "id": 90,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) Ancient Greek theatre began with festivals honoring Dionysus. (II) Performances were held in large open-air amphitheaters. (III) Actors wore large masks to help the audience identify characters. (IV) Modern cinema, however, relies more on technology to tell stories. (V) The chorus also played a vital role.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "Paragraf Antik Yunan tiyatrosu hakkındayken, IV numaralı cümle modern sinemaya geçerek akışı bozar."
+  },
+  {
+    "id": 91,
+    "category": "Kelime Bilgisi",
+    "question_text": "The rapid ---- of urban areas into surrounding natural habitats has led to a significant loss of biodiversity and the displacement of local wildlife.",
+    "options": {
+      "A": "expansion",
+      "B": "depletion",
+      "C": "restriction",
+      "D": "rejection",
+      "E": "evaluation"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Kentsel alanların doğal yaşam alanlarına doğru 'genişlemesi' anlamında 'expansion' kelimesi en uygun seçimdir. "
+  },
+  {
+    "id": 92,
+    "category": "Dil Bilgisi",
+    "question_text": "The explorers ---- their destination much earlier if they had not been delayed by the unexpectedly harsh weather conditions in the mountains.",
+    "options": {
+      "A": "must have reached",
+      "B": "should reach",
+      "C": "could have reached",
+      "D": "might reach",
+      "E": "used to reach"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "Gerçekleşmemiş geçmiş zaman koşulu (Type 3) yapısı gereği 'could have reached' (ulaşabilirlerdi) ifadesi kullanılmalıdır."
+  },
+  {
+    "id": 93,
+    "category": "Cloze Test",
+    "question_text": "The Great Wall of China was built to protect the empire from invasions. ---- its military purpose, it served as a means of border control.",
+    "options": {
+      "A": "Instead of",
+      "B": "Aside from",
+      "C": "In case of",
+      "D": "Similar to",
+      "E": "Regardless of"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Askeri amacının 'yanı sıra/dışında' başka görevleri olduğunu belirtmek için 'Aside from' kullanılır."
+  },
+  {
+    "id": 94,
+    "category": "Cümle Tamamlama",
+    "question_text": "Although some people view social media as a tool for global connectivity, ----.",
+    "options": {
+      "A": "it allows individuals to share their experiences with a wide audience",
+      "B": "because it has revolutionized the way we access information today",
+      "C": "others are increasingly concerned about its impact on mental health and privacy",
+      "D": "so that users can communicate with each other regardless of distance",
+      "E": "since it provides a platform for marginalized voices to be heard"
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'Although' ile başlayan olumlu bağlantı görüşüne karşıt olarak, endişelerden bahseden C şıkkı zıtlığı tamamlar."
+  },
+  {
+    "id": 95,
+    "category": "Çeviri",
+    "question_text": "The theory of relativity, developed by Albert Einstein, fundamentally changed our understanding of space, time, and gravity.",
+    "options": {
+      "A": "Albert Einstein tarafından geliştirilen görelilik teorisi; uzay, zaman ve yerçekimi anlayışımızı temelden değiştirmiştir.",
+      "B": "Görelilik teorisini geliştiren Albert Einstein, uzay ve zamanın yanı sıra yerçekimi kavramını da yeniden tanımlamıştır.",
+      "C": "Uzay, zaman ve yerçekimi hakkındaki bilgilerimiz, Albert Einstein’ın görelilik teorisini geliştirmesiyle değişmeye başlamıştır.",
+      "D": "Albert Einstein, görelilik teorisini geliştirerek uzay, zaman ve yerçekimi anlayışımıza yeni bir boyut kazandırmıştır.",
+      "E": "Görelilik teorisi sayesinde Albert Einstein, uzay ve yerçekimi ile ilgili tüm eski teorileri kökten değiştirmiştir."
+    },
+    "correct_answer": "A",
+    "explanation_tr": "Cümlenin öznesini ve yüklemini (fundamentally changed) tam olarak karşılayan A seçeneğidir."
+  },
+  {
+    "id": 96,
+    "category": "Okuma Parçası",
+    "question_text": "According to the passage, the design of Japanese high-speed trains ----.",
+    "options": {
+      "A": "was primarily based on traditional engineering principles",
+      "B": "was improved by imitating a specific feature found in nature",
+      "C": "led to the discovery of new bird species in urban areas",
+      "D": "is considered the only successful example of biomimicry",
+      "E": "was intended to increase the noise levels for safety reasons"
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Metinde tren tasarımının yalıçapkını kuşunun gagasından ilham aldığı (biyomimikri) belirtilmiştir."
+  },
+  {
+    "id": 97,
+    "category": "Diyalog Tamamlama",
+    "question_text": "Researcher: Handwritten notes tend to be remembered better than typed ones. Student: ...I thought typing was faster. Researcher: ---- Student: I see. So the extra effort of writing helps the brain process info more deeply.",
+    "options": {
+      "A": "Speed is the most important factor when it comes to learning new complex topics.",
+      "B": "Actually, the slower pace of handwriting forces you to summarize and rephrase the content.",
+      "C": "Most students prefer using tablets nowadays because they are easier to carry around.",
+      "D": "Have you ever tried using a voice recorder during your university lectures?",
+      "E": "Typing is only beneficial if you are a very fast and accurate typist."
+    },
+    "correct_answer": "B",
+    "explanation_tr": "Öğrencinin 'derin işleme' cevabına yol açan, el yazısının özetlemeye zorladığını açıklayan B şıkkıdır."
+  },
+  {
+    "id": 98,
+    "category": "Anlamca En Yakın Cümle",
+    "question_text": "Had it not been for the prompt intervention of the lifeguards, the swimmer would certainly have drowned.",
+    "options": {
+      "A": "The swimmer drowned even though the lifeguards tried to intervene as quickly as possible.",
+      "B": "The lifeguards intervened promptly, but they were unable to save the swimmer from drowning.",
+      "C": "If the lifeguards hadn't acted so quickly, the swimmer would definitely have lost his life.",
+      "D": "The swimmer was saved because he was able to stay afloat until the lifeguards arrived.",
+      "E": "Unless the lifeguards intervene promptly, swimmers in this area are at risk of drowning."
+    },
+    "correct_answer": "C",
+    "explanation_tr": "'Cankurtaranlar müdahale etmeseydi boğulurdu' anlamını 'eğer hızlı hareket etmeselerdi...' diyen C şıkkı karşılar."
+  },
+  {
+    "id": 99,
+    "category": "Paragraf Tamamlama",
+    "question_text": "Extreme pressure and freezing temperatures make it difficult for humans to stay at the ocean floor. ----. These machines can withstand harsh conditions and send images.",
+    "options": {
+      "A": "Therefore, most of our knowledge about the deep sea comes from remote-controlled vehicles",
+      "B": "However, many people are still more interested in space travel than ocean exploration",
+      "C": "The biodiversity in the deep sea is much higher than scientists previously estimated",
+      "D": "Many ancient shipwrecks have been discovered recently using sonar technology",
+      "E": "Governments are reducing the funding for oceanographic research due to economic issues"
+    },
+    "correct_answer": "A",
+    "explanation_tr": "İnsanların kalmasının zorluğunu anlattıktan sonra, 'bu makineler' (uzaktan kumandalı araçlar) girişini A şıkkı yapar."
+  },
+  {
+    "id": 100,
+    "category": "Anlamı Bozan Cümle",
+    "question_text": "(I) GM crops increase food production and resist pests. (II) They can grow in poor soil. (III) However, critics express concerns about health and environment. (IV) In the past, people used traditional cross-breeding methods. (V) Despite concerns, GM use expands.",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "correct_answer": "D",
+    "explanation_tr": "Paragrafın tamamı modern GM teknolojisi üzerineyken, IV numaralı cümle geleneksel yöntemlere geçerek akışı bozar."
+  }
+]
