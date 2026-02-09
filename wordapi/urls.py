@@ -16,9 +16,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.http import JsonResponse
+from django.views.decorators.cache import never_cache
 
 urlpatterns = [
     path("admin/", admin.site.urls),
+    path(
+        "health/",
+        never_cache(lambda request: JsonResponse({"status": "ok"}))
+    ),
     path('', include('accounts.urls')),
     path('api/', include('words.urls')),
 
